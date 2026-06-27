@@ -24,6 +24,9 @@ def main():
         use_gpu=False
     )
 
+    with open('model/als_model.pkl', 'wb') as f:
+        pickle.dump(als_model, f)
+
     # STEP 3: GENERATE RECOMMENDATIONS
 
     test_user_ids = list(range(train_matrix.shape[0]))
