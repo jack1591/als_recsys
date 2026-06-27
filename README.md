@@ -8,11 +8,12 @@
 
 ## Демонстрация
 
-![Форма запроса](<img width="1096" height="722" alt="image" src="https://github.com/user-attachments/assets/1f08f60b-bc55-41d4-b3b9-6e72b6a40d19" />
-)
+Форма запроса рекомендаций:
+<img width="993" alt="image" src="https://github.com/user-attachments/assets/67042986-1528-450d-9ca9-8d2b3238cec4" />
 
-![Результаты рекомендаций](<img width="1708" height="583" alt="image" src="https://github.com/user-attachments/assets/9eef006f-d1ae-4e3d-b7fa-48fedd8d6da5" />
-)
+Результаты запроса:
+<img width="1714" alt="image" src="https://github.com/user-attachments/assets/f97173b5-58d4-4cf6-8d49-1b4950165680" />
+
 
 ## Структура проекта
 
